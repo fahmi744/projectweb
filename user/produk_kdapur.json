@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nama": "Produk Dapur 1",
+        "harga": 25000,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari.",
+        "created_at": "2025-06-12 02:29:01",
+        "updated_at": "2025-06-12 02:31:52"
+    },
+    {
+        "id": 3,
+        "nama": "Produk Dapur 3",
+        "harga": 49298,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari."
+    },
+    {
+        "id": 4,
+        "nama": "Produk Dapur 4",
+        "harga": 72000,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari uiui",
+        "created_at": "2025-06-12 02:26:30",
+        "updated_at": "2025-06-12 02:26:30"
+    },
+    {
+        "id": 5,
+        "nama": "Produk Dapur 5",
+        "harga": 34738,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari."
+    },
+    {
+        "id": 6,
+        "nama": "Produk Dapur 6",
+        "harga": 23615,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari."
+    },
+    {
+        "id": 7,
+        "nama": "Produk Dapur 7",
+        "harga": 15531,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari."
+    },
+    {
+        "id": 8,
+        "nama": "Produk Dapur 8",
+        "harga": 82747,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari."
+    },
+    {
+        "id": 9,
+        "nama": "Produk Dapur 9",
+        "harga": 34559,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari."
+    },
+    {
+        "id": 10,
+        "nama": "Produk Dapur 10",
+        "harga": 21981,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari."
+    },
+    {
+        "id": 11,
+        "nama": "Produk Dapur 11",
+        "harga": 24383,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari."
+    },
+    {
+        "id": 12,
+        "nama": "Produk Dapur 12",
+        "harga": 58476,
+        "deskripsi": "Deskripsi produk dapur berkualitas tinggi untuk kebutuhan memasak sehari-hari."
+    }
+]

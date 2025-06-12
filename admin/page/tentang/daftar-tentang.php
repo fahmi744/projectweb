@@ -1,0 +1,1 @@
+<h2 class="mt-4 mb-4"><i class="fas fa-info-circle"></i> Tentang Kami</h2>
